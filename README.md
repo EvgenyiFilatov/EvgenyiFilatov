@@ -19,10 +19,9 @@
 
 ## Мои проекты
 
-- [Foodgram](https://github.com/EvgenyiFilatov/foodgram)  — это платформа, где пользователи могут делиться своими рецептами, добавлять рецепты других авторов в избранное и подписываться на предпочитаемых кулинаров.
-- Название проекта 2 (https://github.com/%D1%82%D0%B2%D0%BE%D0%B9_%D0%BD%D0%B8%D0%BA/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%822) — короткое описание проекта 2  
-- Название проекта 3 (https://github.com/%D1%82%D0%B2%D0%BE%D0%B9_%D0%BD%D0%B8%D0%BA/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%823) — короткое описание проекта 3  
-- Портфолио → (https://github.com/%D1%82%D0%B2%D0%BE%D0%B9_%D0%BD%D0%B8%D0%BA?tab=repositories) — все репозитории
+- [Foodgram](https://github.com/EvgenyiFilatov/foodgram)  — сервис для публикации и поиска рецептов;
+- [YaMDb](https://github.com/dptvsh/api_yamdb) — API для сервиса оценки произведений;
+- [GeshBot](https://github.com/EvgenyiFilatov/geshbot) — telegram-bot для отсчета времени до поездки и отслеживания погоды в указанном месте;
 
 ## Связаться со мной
 
