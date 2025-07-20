@@ -1,22 +1,27 @@
-## Hi there 👋A beginner Python developer from Russia. I strive for clean code, deep knowledge and stack expansion.
+# Привет! Я Python-разработчик 🐍
 
-About me:
-🌱 I’m currently learning HTML, Python and SQL
-🤝 I’m looking for a job in the field of Python development
-⚡ Fun fact: I'm a big Harry Potter fun
-📫 How to reach me:
-Email: dptvsh@yandex.ru
-TG:https://t.me/Bleidin123
-Tech Stack
-Python Django DjangoREST Docker Nginx Postgres Git
+Меня зовут Евгений — я занимаюсь бэкенд-разработкой на Python. Стремлюсь создавать быстрые, надёжные и масштабируемые веб-приложения. Постоянно учусь и прокачиваю свой стек.
 
-Languages: Python
-Frameworks: Django, Django REST Framework
-Tools: Docker, Nginx, Git, GitHub Actions, Postman
-Databases: PostgreSQL, SQLite
-Additional: REST API, CI/CD
-Projects:
-Foodgram: сайт с рецептами;
-YaMDb: API для сервиса оценки произведений;
-API Yatube: API сервис для социальной сети.
+## Мой стек
 
+- 🐍 Python, Django, Django Rest Framework  
+- 🐳 Docker  
+- 🐘 Postgres  
+- 🕸️ Nginx  
+- 🛠️ Git
+
+## Чем занимаюсь
+
+- Разработка и оптимизация API  
+- Проектирование и поддержка архитектуры веб-приложений  
+- Автоматизация и деплой проектов с использованием Docker и Nginx  
+- Работа с базами данных, создание SQL-запросов
+
+## Связаться со мной
+
+- Telegram: твой_ник (https://t.me/%D1%82%D0%B2%D0%BE%D0%B9_%D0%BD%D0%B8%D0%BA)
+- Email: твой@email.com
+
+---
+
+Люблю чистый код, интересные задачи и открытых людей к новым знаниям! 🚀
